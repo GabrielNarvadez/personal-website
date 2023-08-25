@@ -1,142 +1,6 @@
-
-<!DOCTYPE html>
-    <html lang="en">
-
-    <head>
-        <meta charset="utf-8">
-        <title>Cristino - Personal Portfolio Template</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Premium Bootstrap 5 Landing Page Template">
-        <meta name="keywords" content="Bootstrap 5, premium, marketing, multipurpose">
-        <meta content="Shreethemes" name="author">
-        <!-- favicon -->
-        <link rel="shortcut icon" href="images/favicon.ico">
-        <!-- Bootstrap -->
-        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-        <!-- Lightbox -->
-        <link href="css/tobii.min.css" rel="stylesheet" type="text/css">
-        <!-- Icon -->
-        <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css">
-        <!-- SLIDER -->
-        <link rel="stylesheet" href="css/tiny-slider.css"/>
-        <!-- Custom Css -->
-        <link href="css/style.min.css" rel="stylesheet" type="text/css" id="theme-opt">
-        <link href="css/colors/default.css" rel="stylesheet" id="color-opt">
-    </head>
-
-    <body>
-        <!-- Loader -->
-        <div id="preloader">
-            <div id="status">
-                <div class="logo">
-                    <img src="images/logo.png" height="20" class="d-block mx-auto" alt="">
-                </div>
-                <div class="spinner">
-                    <div class="bounce1"></div>
-                    <div class="bounce2"></div>
-                    <div class="bounce3"></div>
-                </div>
-            </div>
-        </div>
-        <!-- Loader -->
-        
-        <!-- Navbar Start -->
-        <nav id="navbar" class="navbar navbar-expand-lg fixed-top navbar-custom navbar-light sticky">
-    		<div class="container">
-                <a class="navbar-brand" href="">
-                    <img src="images/logo.png" class="logo-light-mode" alt="">
-                    <img src="images/logo-light.png" class="logo-dark-mode" alt="">
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                    <span data-feather="menu" class="fea icon-md"></span>
-                </button><!--end button-->
-
-                <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <ul id="navbar-navlist" class="navbar-nav navbar-nav-link mx-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" href="#home">Home</a>
-                        </li><!--end nav item-->
-                        <li class="nav-item">
-                            <a class="nav-link" href="#services">Services</a>
-                        </li><!--end nav item-->
-                        <li class="nav-item">
-                            <a class="nav-link" href="#resume">Resume</a>
-                        </li><!--end nav item-->
-                        <li class="nav-item">
-                            <a class="nav-link" href="#projects">Projects</a>
-                        </li><!--end nav item-->
-                        <li class="nav-item">
-                            <a class="nav-link" href="#news">Blog</a>
-                        </li><!--end nav item-->
-                        <li class="nav-item">
-                            <a class="nav-link" href="#contact">Contact</a>
-                        </li><!--end nav item-->
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages
-                            </a>
-                            <div class="dropdown-menu rounded m-0" aria-labelledby="navbarDropdown">
-                                <div class="container mx-0 mx-md-0">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <a class="dropdown-item" href="page-blog.html">Blog</a>
-                                            <a class="dropdown-item" href="page-blog-detail.html">Blog Detail</a>
-                                            <a class="dropdown-item" href="page-portfolio.html">Portfolio</a>
-                                            <a class="dropdown-item" href="page-portfolio-detail.html">Portfolio Detail</a>
-                                        </div><!--end col-->
-                                    </div><!--end row-->
-                                </div><!--end container-->
-                            </div>
-                        </li><!--end nav item-->
-                    </ul>
-
-                    <ul class="list-unstyled mb-0 mt-2 mt-sm-0 social-icon">
-                        <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-facebook"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-twitter"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-instagram"></i></a></li>
-                    </ul>
-                </div> 
-            </div><!--end container-->
-		</nav><!--end navbar-->
-        <!-- Navbar End -->
-
-        <!-- Start Hero -->
-        <section class="full-home personal-hero d-flex align-items-center background-effect overflow-hidden" id="home">
-            <div class="container-fluid">
-                <div class="bg-overlay bg-overlay-primary jarallax" data-jarallax data-speed="0.5" style="background: url('images/home/02.png') top;"></div>
-
-                <div class="container position-relative" style="z-index: 1;">
-                    <div class="row mt-5">
-                        <div class="col">
-                            <div class="title-heading">
-                                <div class="row">
-                                    <div class="col-lg-4 col-md-6">
-                                        <h4 class="display-3 title fw-bold mb-0">Cristino <br> <span class="typewrite" data-period="2000" data-type='[ "Murphy!"]'></span> </h4>                            
-                                        
-                                    </div><!--end col-->
-            
-                                    <div class="col-lg-5 offset-lg-3 col-md-6 mt-4 mt-sm-0">
-                                    
-                                        <div class="rounded personal-hero-para">
-                                            <h5 class="mb-3 sub-title">I'm Professional Web Developer</h5>
-                                
-                                            <p class="para-desc para mb-0">Obviously I'm a Web Designer. Web Developer with over 3 years of experience.</p>
-                                        
-                                            <div class="mt-4">
-                                                <a href="#project" class="btn btn-primary">Hire me</a>
-                                            </div>
-                                        </div>
-                                    </div><!--end col-->
-                                </div><!--end row-->
-                            </div>
-                        </div><!--end col-->
-                    </div><!--end row-->
-                </div><!--end container-->
-            </div><!--end container fluid-->
-            <div class="personal-overlay bg-overlay bg-primary-gradient-overlay"></div>
-        </section><!--end section-->
-        <!-- End Hero -->
-        
+<?php
+ require('header.php');
+?>
         <!-- About Start -->
         <section class="section pb-3" id="about">
             <div class="container">
@@ -149,10 +13,11 @@
 
                     <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="section-title mb-0 ms-lg-5 ms-md-3">
-                            <h4 class="title text-primary mb-3">Cristino Murphy</h4>
-                            <h6 class="designation mb-3">I'm a Passionate <span class="text-primary">Web Designer</span></h6>
-                            <p class="text-muted">Obviously I'm a Web Designer. Web Developer with over 3 years of experience. Experienced with all stages of the development cycle for dynamic web projects. The as opposed to using 'Content here, content here', making it look like readable English.</p>
-                            <p class="text-muted">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+                            <h4 class="title text-primary mb-3">Gabriel Narvadez</h4>
+                            <h6 class="designation mb-3">Visionary Creative and Technical Lead with Expertise to <span class="text-primary">Drive Innovation and Success</span></h6>
+                            <p class="text-muted">Hello! I am dedicated with a relentless drive for design and technology. As a certified web and graphics designer, I specialize in crafting engaging designs that leave a lasting impact on audiences. With five years of experience in the creatives industry, I have collaborated with both local and international brands, delivering innovative solutions that inspire and resonate.
+                            </p>
+                            <p class="text-muted">In addition to my design skills, I hold expertise as a certified HubSpot specialist. Over three years, I've honed my abilities in CRM platforms and B2B marketing strategies, making me an invaluable asset for businesses seeking to maximize their CRM capabilities. From optimizing lead generation to enhancing customer relationship management, I help streamline marketing efforts for sustainable growth.</p>
                             <img src="images/sign.png" height="22" alt="">
                             <div class="mt-4">
                                 <a href="#projects" class="btn btn-primary mouse-down">View Portfolio</a>
@@ -174,7 +39,7 @@
                                     <div class="title-line"></div>
                                 </div>
                             </div>
-                            <p class="text-muted mx-auto para-desc mt-5 mb-0">Obviously I'm a Web Designer. Experienced with all stages of the development cycle for dynamic web projects.</p>
+                            <p class="text-muted mx-auto para-desc mt-5 mb-0">When I'm not busy with designing, developing, or playing online games, you can catch me strategizing over a game of chess, drinking coffee, writing poetry, or getting lost in the enchanting world of music.</p>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -188,32 +53,6 @@
                                 </div>
                                 <div class="content">
                                     <h6 class="title mb-0">Developing</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-12 mt-4 pt-2">
-                        <div class="interests-desc bg-light position-relative px-2 py-3 rounded">
-                            <div class="hobbies d-flex align-items-center">
-                                <div class="text-center rounded-pill me-4">
-                                    <i data-feather="stop-circle" class="icon fea icon-md-sm"></i>
-                                </div>
-                                <div class="content">
-                                    <h6 class="title mb-0">Mac OS</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-12 mt-4 pt-2">
-                        <div class="interests-desc bg-light position-relative px-2 py-3 rounded">
-                            <div class="hobbies d-flex align-items-center">
-                                <div class="text-center rounded-pill me-4">
-                                    <i data-feather="video" class="icon fea icon-md-sm"></i>
-                                </div>
-                                <div class="content">
-                                    <h6 class="title mb-0">Cinema</h6>
                                 </div>
                             </div>
                         </div>
@@ -288,19 +127,6 @@
                         <div class="interests-desc bg-light position-relative px-2 py-3 rounded">
                             <div class="hobbies d-flex align-items-center">
                                 <div class="text-center rounded-pill me-4">
-                                    <i data-feather="pen-tool" class="icon fea icon-md-sm"></i>
-                                </div>
-                                <div class="content">
-                                    <h6 class="title mb-0">Painting</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-12 mt-4 pt-2">
-                        <div class="interests-desc bg-light position-relative px-2 py-3 rounded">
-                            <div class="hobbies d-flex align-items-center">
-                                <div class="text-center rounded-pill me-4">
                                     <i data-feather="book" class="icon fea icon-md-sm"></i>
                                 </div>
                                 <div class="content">
@@ -323,20 +149,6 @@
                         </div>
                     </div><!--end col-->
                     
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-12 mt-4 pt-2">
-                        <div class="interests-desc bg-light position-relative px-2 py-3 rounded">
-                            <div class="hobbies d-flex align-items-center">
-                                <div class="text-center rounded-pill me-4">
-                                    <i data-feather="activity" class="icon fea icon-md-sm"></i>
-                                </div>
-                                <div class="content">
-                                    <h6 class="title mb-0">Other Activity</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                </div>
-            </div><!--end container-->
 
             <div class="container-fluid mt-100 mt-60">
                 <div class="rounded py-md-5 py-4 jarallax" data-jarallax data-speed="0.5" style="background: url('images/bg-counter.jpg') center center;">
@@ -347,8 +159,8 @@
                                     <div class="counter-icon">
                                         <i data-feather="smile" class="fea icon-md text-primary"></i>
                                     </div>
-                                    <h3 class="counter-value mt-3 text-white title-dark" data-target="1251">95</h3>
-                                    <h6 class="counter-head font-weight-normal mb-0 text-white title-dark">Happy Client</h6>
+                                    <h3 class="counter-value mt-3 text-white title-dark" data-target="5">3</h3>
+                                    <h6 class="counter-head font-weight-normal mb-0 text-white title-dark">Years Of Service</h6>
                                 </div><!--end counter box-->
                             </div><!--end col-->
     
@@ -357,8 +169,8 @@
                                     <div class="counter-icon">
                                         <i data-feather="award" class="fea icon-md text-primary"></i>
                                     </div>
-                                    <h3 class="counter-value mt-3 text-white title-dark" data-target="15">1</h3>
-                                    <h6 class="counter-head font-weight-normal mb-0 text-white title-dark">Award Won</h6>
+                                    <h3 class="counter-value mt-3 text-white title-dark" data-target="30">5</h3>
+                                    <h6 class="counter-head font-weight-normal mb-0 text-white title-dark">Served Brands</h6>
                                 </div><!--end counter box-->
                             </div><!--end col-->
     
@@ -367,7 +179,7 @@
                                     <div class="counter-icon">
                                         <i data-feather="coffee" class="fea icon-md text-primary"></i>
                                     </div>
-                                    <h3 class="counter-value mt-3 text-white title-dark" data-target="3261">30</h3>
+                                    <h3 class="counter-value mt-3 text-white title-dark" data-target="999">30</h3>
                                     <h6 class="counter-head font-weight-normal mb-0 text-white title-dark">Cup of Coffee</h6>
                                 </div><!--end counter box-->
                             </div><!--end col-->
@@ -401,7 +213,7 @@
                                     <div class="title-line"></div>
                                 </div>
                             </div>
-                            <p class="text-muted mx-auto para-desc mt-5 mb-0">Obviously I'm a Web Designer. Experienced with all stages of the development cycle for dynamic web projects.</p>
+                            <p class="text-muted mx-auto para-desc mt-5 mb-0">Creative design, strategic marketing. From web experiences to branding, I help your brand thrive.</p>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -413,8 +225,8 @@
                                 <i data-feather="airplay" class="fea icon-md"></i>
                             </div>
                             <div class="content mt-4">
-                                <h5 class="title">UX / UI Design</h5>
-                                <p class="text-muted mt-3 mb-0">It is a long established fact that a reader will be distracted by the when looking at its layout.</p>
+                                <h5 class="title">Web & Graphics Design</h5>
+                                <p class="text-muted mt-3 mb-0">Crafting engaging digital experiences that resonate with your audience.</p>
                             </div>
                             <div class="big-icon">
                                 <i data-feather="airplay" class="fea icons"></i>
@@ -428,8 +240,8 @@
                                 <i data-feather="aperture" class="fea icon-md"></i>
                             </div>
                             <div class="content mt-4">
-                                <h5 class="title">Ios App Designer</h5>
-                                <p class="text-muted mt-3 mb-0">It is a long established fact that a reader will be distracted by the when looking at its layout.</p>
+                                <h5 class="title">Hubspot Technical Support</h5>
+                                <p class="text-muted mt-3 mb-0">Enhancing your HubSpot capabilities for streamlined marketing and improved customer engagement.</p>
                             </div>
                             <div class="big-icon">
                                 <i data-feather="aperture" class="fea icons"></i>
@@ -443,8 +255,8 @@
                                 <i data-feather="camera" class="fea icon-md"></i>
                             </div>
                             <div class="content mt-4">
-                                <h5 class="title">Photography</h5>
-                                <p class="text-muted mt-3 mb-0">It is a long established fact that a reader will be distracted by the when looking at its layout.</p>
+                                <h5 class="title">Content Creation</h5>
+                                <p class="text-muted mt-3 mb-0">Developing strategic content that tells your brand's story and connects with your target audience.</p>
                             </div>
                             <div class="big-icon">
                                 <i data-feather="camera" class="fea icons"></i>
@@ -458,8 +270,8 @@
                                 <i data-feather="compass" class="fea icon-md"></i>
                             </div>
                             <div class="content mt-4">
-                                <h5 class="title">Graphic Designer</h5>
-                                <p class="text-muted mt-3 mb-0">It is a long established fact that a reader will be distracted by the when looking at its layout.</p>
+                                <h5 class="title">Website Maintenance</h5>
+                                <p class="text-muted mt-3 mb-0">Developing compelling content that tells your brand's story and connects with your target audience.</p>
                             </div>
                             <div class="big-icon">
                                 <i data-feather="compass" class="fea icons"></i>
@@ -473,8 +285,8 @@
                                 <i data-feather="settings" class="fea icon-md"></i>
                             </div>
                             <div class="content mt-4">
-                                <h5 class="title">Web Security</h5>
-                                <p class="text-muted mt-3 mb-0">It is a long established fact that a reader will be distracted by the when looking at its layout.</p>
+                                <h5 class="title">UI/UX Design</h5>
+                                <p class="text-muted mt-3 mb-0">Designing user-centric interfaces to elevate user satisfaction and interaction.</p>
                             </div>
                             <div class="big-icon">
                                 <i data-feather="settings" class="fea icons"></i>
@@ -488,8 +300,8 @@
                                 <i data-feather="watch" class="fea icon-md"></i>
                             </div>
                             <div class="content mt-4">
-                                <h5 class="title">24 / 7</h5>
-                                <p class="text-muted mt-3 mb-0">It is a long established fact that a reader will be distracted by the when looking at its layout.</p>
+                                <h5 class="title">Software Solutions</h5>
+                                <p class="text-muted mt-3 mb-0">Tailoring custom software to enhance business efficiency and effectiveness.</p>
                             </div>
                             <div class="big-icon">
                                 <i data-feather="watch" class="fea icons"></i>
@@ -514,7 +326,7 @@
                                     <div class="title-line"></div>
                                 </div>
                             </div>
-                            <p class="text-muted mx-auto para-desc mt-5 mb-0">Obviously I'm a Web Designer. Experienced with all stages of the development cycle for dynamic web projects.</p>
+                            <p class="text-muted mx-auto para-desc mt-5 mb-0">Engaged in diverse projects, collaborating with clients to transform visions into impactful digital solutions.                            </p>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -528,13 +340,13 @@
                             <div class="timeline-item mt-4">
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6 col-sm-6">
-                                        <div class="duration date-label-left border rounded p-2 ps-4 pe-4 position-relative shadow text-start">2015 - 2018</div>
+                                        <div class="duration date-label-left border rounded p-2 ps-4 pe-4 position-relative shadow text-start">2018 - 2020</div>
                                     </div><!--end col-->
                                     <div class="col-lg-6 col-md-6 col-sm-6">
                                         <div class="event event-description-right rounded p-4 border float-left text-start">
-                                            <h5 class="title mb-0 text-capitalize">UX Designer</h5>
-                                            <small class="company">Vivo - Senior Designer</small>
-                                            <p class="timeline-subtitle mt-3 mb-0 text-muted">The generated injected humour, or non-characteristic words etc. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,</p>
+                                            <h5 class="title mb-0 text-capitalize">Brand Designer</h5>
+                                            <small class="company">Passion and Freelance Work</small>
+                                            <p class="timeline-subtitle mt-3 mb-0 text-muted">Between 2018 and 2020, I went all in – taking on passion projects and freelancing gigs. It was a time of exploring, learning, and turning my love for design into hands-on experiences.                                            </p>
                                         </div>
                                     </div><!--end col-->
                                 </div><!--end row-->
@@ -544,13 +356,13 @@
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6 col-sm-6 order-sm-1 order-2">
                                         <div class="event event-description-left rounded p-4 border float-left text-end">
-                                            <h5 class="title mb-0 text-capitalize">Web Developer</h5>
-                                            <small class="company">Oppo - HR Manager</small>
-                                            <p class="timeline-subtitle mt-3 mb-0 text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet.</p>
+                                            <h5 class="title mb-0 text-capitalize">Multimedia Designer</h5>
+                                            <small class="company">Intern</small>
+                                            <p class="timeline-subtitle mt-3 mb-0 text-muted">As the pandemic swept in, I found myself with more time in front of my computer, diving into the world of multimedia design since my internship in Flyhub Digital. Embracing the situation, I reached out to small businesses, offering free services in exchange for experience and portfolio building. This marked the turning point when my efforts started paying off, as I transitioned from gaining experience to earning from my newfound expertise.</p>
                                         </div>
                                     </div><!--end col-->
                                     <div class="col-lg-6 col-md-6 col-sm-6 order-sm-2 order-1">
-                                        <div class="duration duration-right rounded border p-2 ps-4 pe-4 position-relative shadow text-start">2012 - 2015</div>
+                                        <div class="duration duration-right rounded border p-2 ps-4 pe-4 position-relative shadow text-start">2020 - 2021</div>
                                     </div><!--end col-->
                                 </div><!--end row-->
                             </div><!--end timeline item-->
@@ -558,13 +370,13 @@
                             <div class="timeline-item mt-4">
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6 col-sm-6">
-                                        <div class="duration date-label-left border rounded p-2 ps-4 pe-4 position-relative shadow text-start"> 2012 - 2010</div>
+                                        <div class="duration date-label-left border rounded p-2 ps-4 pe-4 position-relative shadow text-start">2021 - Present</div>
                                     </div><!--end col-->
                                     <div class="col-lg-6 col-md-6 col-sm-6">
                                         <div class="event event-description-right rounded p-4 border float-left text-start">
-                                            <h5 class="title mb-0 text-capitalize">Graphic Designer</h5>
-                                            <small class="company">Apple - Testor</small>
-                                            <p class="timeline-subtitle mt-3 mb-0 text-muted">Therefore always free from repetition, injected humour, or non-characteristic words etc. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, </p>
+                                            <h5 class="title mb-0 text-capitalize">Web & Graphics Designer</h5>
+                                            <small class="company">Flyhub Digital Full-Time</small>
+                                            <p class="timeline-subtitle mt-3 mb-0 text-muted">From 2021 to the present, my journey escalated as I secured projects with overseas companies, propelling my expertise onto a global stage. Simultaneously, I delved into software solutions, capitalizing on my design experience to bridge the gap between designing and building, a new dimension I'm excited to explore.                                            </p>
                                         </div>
                                     </div><!--end col-->
                                 </div><!--end row-->
@@ -576,141 +388,6 @@
             </div><!--end container-->
         </section><!--end section-->   
         <!-- Skill End -->
-
-        <!-- Skill & CTA START -->
-        <section class="cta-full border-top">
-            <div class="container-fluid">
-                <div class="row position-relative">
-                    <div class="col-lg-4 padding-less img jarallax" data-jarallax data-speed="0.5" style="background-image:url('images/skills.jpg')"></div><!-- end col -->
-                    <div class="col-lg-8 offset-lg-4">
-                        <div class="cta-full-img-box">
-                            <div class="row justify-content-center">
-                                <div class="col-12 text-center">
-                                    <div class="section-title">
-                                        <div class="position-relative">
-                                            <h4 class="title text-uppercase mb-4">Work Expertise</h4>
-                                            <div>
-                                    <div class="title-box"></div>
-                                    <div class="title-line"></div>
-                                </div>
-                                        </div>
-                                        <p class="text-muted mx-auto para-desc mt-5 mb-0">Obviously I'm a Web Designer. Experienced with all stages of the development cycle for dynamic web projects.</p>
-                                    </div>
-                                </div><!--end col-->
-                            </div><!--end row-->
-
-                            <div class="row align-items-center">
-                                <div class="col-lg-3 col-md-4 col-12">
-                                    <ul class="nav nav-pills flex-column px-0" id="pills-tab" role="tablist">
-                                        <li class="nav-item mt-4 pt-2">
-                                            <a class="nav-link rounded active" id="pills-cloud-tab" data-bs-toggle="pill" href="#pills-cloud" role="tab" aria-controls="pills-cloud" aria-selected="false">
-                                                <div class="skill-container text-center pt-1 pb-1">
-                                                    <h6 class="title mb-0">UX Design</h6>
-                                                </div>
-                                            </a><!--end nav link-->
-                                        </li><!--end nav item-->
-                                        
-                                        <li class="nav-item mt-4 pt-2">
-                                            <a class="nav-link rounded" id="pills-smart-tab" data-bs-toggle="pill" href="#pills-smart" role="tab" aria-controls="pills-smart" aria-selected="false">
-                                                <div class="skill-container text-center pt-1 pb-1">
-                                                    <h6 class="title mb-0">Language Skill</h6>
-                                                </div>
-                                            </a><!--end nav link-->
-                                        </li><!--end nav item-->
-                                        
-                                        <li class="nav-item mt-4 pt-2">
-                                            <a class="nav-link rounded" id="pills-apps-tab" data-bs-toggle="pill" href="#pills-apps" role="tab" aria-controls="pills-apps" aria-selected="false">
-                                                <div class="skill-container text-center pt-1 pb-1">
-                                                    <h6 class="title mb-0">Web development</h6>
-                                                </div>
-                                            </a><!--end nav link-->
-                                        </li><!--end nav item-->
-                                    </ul><!--end nav pills-->
-                                </div><!--end col-->
-
-                                <div class="col-lg-9 col-md-8 col-12">
-                                    <div class="tab-content ps-lg-4" id="pills-tabContent">
-                                        <div class="tab-pane fade show active" id="pills-cloud" role="tabpanel" aria-labelledby="pills-cloud-tab">
-                                            <div class="progress-box mt-4 pt-2">
-                                                <h6 class="font-weight-normal">HTML</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar position-relative bg-primary" style="width:84%;">
-                                                        <div class="progress-value d-block text-dark h6">84%</div>
-                                                    </div>
-                                                </div>
-                                            </div><!--end process box-->
-                                            <div class="progress-box mt-4 pt-2">
-                                                <h6 class="font-weight-normal">CSS</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar position-relative bg-primary" style="width:75%;">
-                                                        <div class="progress-value d-block text-dark h6">75%</div>
-                                                    </div>
-                                                </div>
-                                            </div><!--end process box-->
-                                            <div class="progress-box mt-4 pt-2">
-                                                <h6 class="font-weight-normal">JQuery</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar position-relative bg-primary" style="width:79%;">
-                                                        <div class="progress-value d-block text-dark h6">79%</div>
-                                                    </div>
-                                                </div>
-                                            </div><!--end process box-->
-                                        </div><!--end teb pane-->
-                                        
-                                        <div class="tab-pane fade" id="pills-smart" role="tabpanel" aria-labelledby="pills-smart-tab">
-                                            <div class="progress-box mt-4 pt-2">
-                                                <h6 class="font-weight-normal">English</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar position-relative bg-primary" style="width:84%;">
-                                                        <div class="progress-value d-block text-dark h6">84%</div>
-                                                    </div>
-                                                </div>
-                                            </div><!--end process box-->
-                                            <div class="progress-box mt-4 pt-2">
-                                                <h6 class="font-weight-normal">Spanish</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar position-relative bg-primary" style="width:75%;">
-                                                        <div class="progress-value d-block text-dark h6">75%</div>
-                                                    </div>
-                                                </div>
-                                            </div><!--end process box-->
-                                            <div class="progress-box mt-4 pt-2">
-                                                <h6 class="font-weight-normal">German</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar position-relative bg-primary" style="width:79%;">
-                                                        <div class="progress-value d-block text-dark h6">79%</div>
-                                                    </div>
-                                                </div>
-                                            </div><!--end process box-->
-                                        </div><!--end teb pane-->
-
-                                        <div class="tab-pane fade" id="pills-apps" role="tabpanel" aria-labelledby="pills-apps-tab">
-                                            <div class="progress-box mt-4 pt-2">
-                                                <h6 class="font-weight-normal">Photoshop</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar position-relative bg-primary" style="width:84%;">
-                                                        <div class="progress-value d-block text-dark h6">84%</div>
-                                                    </div>
-                                                </div>
-                                            </div><!--end process box-->
-                                            <div class="progress-box mt-4 pt-2">
-                                                <h6 class="font-weight-normal">Sketch</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar position-relative bg-primary" style="width:75%;">
-                                                        <div class="progress-value d-block text-dark h6">75%</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div><!--end teb pane-->
-                                    </div><!--end tab content-->
-                                </div><!--end col-->
-                            </div> <!-- end row --> 
-                        </div> <!-- end about detail -->
-                    </div> <!-- end col -->        
-                </div><!--end row-->
-            </div><!--end container fluid-->
-        </section><!--end section-->   
-        <!-- Skill & CTA End -->
 
         <!-- Projects End -->
         <section class="section bg-light" id="projects">
@@ -725,7 +402,7 @@
                                     <div class="title-line"></div>
                                 </div>
                             </div>
-                            <p class="text-muted mx-auto para-desc mt-5 mb-0">Obviously I'm a Web Designer. Experienced with all stages of the development cycle for dynamic web projects.</p>
+                            <p class="text-muted mx-auto para-desc mt-5 mb-0">Explore my portfolio, a visual journey that captures the fusion of design and innovation across web, graphics, UI/UX, branding, and software solutions.                            </p>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -738,9 +415,9 @@
                             <ul class="portfolioFilter list-inline mb-0 filter-options text-center">
                                 <li class="list-inline-item categories-name border text-dark px-3 rounded active" data-group="all">All</li>
                                 <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="branding">Branding</li>
-                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="designing">Designing</li>
-                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="photography">Photography</li>
-                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="development">Development</li>
+                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="designing">UI/UX Design</li>
+                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="photography">Software Solution</li>
+                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="development">Content Creation</li>
                             </ul>
                         </div>
                     </div><!--end col-->
@@ -759,7 +436,7 @@
                                 </div>
                             </div>
                             <div class="gallary-title py-4 text-center">
-                                <h5><a href="page-portfolio-detail.html" class="title text-dark">Working Keyboard</a></h5>
+                                <h5><a href="page-portfolio-detail.html" class="title text-dark">Flyhub Digital</a></h5>
                                 <span>Branding</span>
                             </div>
                         </div>
@@ -776,7 +453,7 @@
                                 </div>
                             </div>
                             <div class="gallary-title py-4 text-center">
-                                <h5><a href="page-portfolio-detail.html" class="title text-dark">The Micro Headphones</a></h5>
+                                <h5><a href="page-portfolio-detail.html" class="title text-dark">Nuview Treatment Center</a></h5>
                                 <span>Development</span>
                             </div>
                         </div>
@@ -1172,7 +849,7 @@
                                     <div class="title-line"></div>
                                 </div>
                             </div>
-                            <p class="text-muted mx-auto para-desc mt-5 mb-0">Obviously I'm a Web Designer. Experienced with all stages of the development cycle for dynamic web projects.</p>
+                            <p class="text-muted mx-auto para-desc mt-5 mb-0">Let's connect and discuss how I can help bring your vision to life.</p>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -1186,7 +863,7 @@
                             <div class="content mt-4">
                                 <h5 class="title text-uppercase">Phone</h5>
                                 <p class="text-muted">Promising development turmoil inclusive education transformative community</p>
-                                <a href="tel:+152534-468-854" class="text-primary">+152 534-468-854</a>
+                                <a href="tel:+152534-468-854" class="text-primary">+63956-743-3547</a>
                             </div>  
                         </div>
                     </div><!--end col-->
@@ -1199,7 +876,7 @@
                             <div class="content mt-4">
                                 <h5 class="title text-uppercase">Email</h5>
                                 <p class="text-muted">Promising development turmoil inclusive education transformative community</p>
-                                <a href="mailto:contact@example.com" class="text-primary">contact@example.com</a>
+                                <a href="mailto:contact@example.com" class="text-primary">gab.narvadez@gmail.com</a>
                             </div>  
                         </div>
                     </div><!--end col-->
@@ -1211,7 +888,7 @@
                             </div>
                             <div class="content mt-4">
                                 <h5 class="title text-uppercase">Location</h5>
-                                <p class="text-muted">C/54 Northwest Freeway, Suite 558, <br>Houston, USA 485</p>
+                                <p class="text-muted">Santo Tomas City<br>Batangas, Philippines 4234</p>
                                 <a href="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d6030.418742494061!2d-111.34563870463673!3d26.01036670629853!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1471908546569" class="video-play-icon text-primary">View on Google map</a>
                             </div>  
                         </div>
@@ -1267,98 +944,6 @@
         </section><!--end section-->
         <!-- Contact End -->
 
-        <!-- Footer Start -->
-        <footer class="footer bg-dark">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-12 text-center">
-                        <a href="#"><img src="images/logo-light.png" alt=""></a>
-                        <p class="para-desc mx-auto mt-5">Obviously I'm a Web Designer. Experienced with all stages of the development cycle for dynamic web projects.</p>
-                        <ul class="list-unstyled mb-0 mt-4 social-icon">
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-twitter"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-instagram"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-vimeo"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-google-plus"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-linkedin"></i></a></li>
-                        </ul>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
-        </footer><!--end footer-->
-        <footer class="footer footer-bar bg-dark">
-            <div class="container text-foot text-center">
-                <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> Cristino. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="http://shreethemes.in/" target="_blank" class="text-reset">Shreethemes</a>.</p>
-            </div><!--end container-->
-        </footer><!--end footer-->
-        <!-- Footer End -->
-        
-        <!-- Back to top -->
-        <a href="#" onclick="topFunction()" class="back-to-top rounded text-center" id="back-to-top"> 
-            <i class="mdi mdi-chevron-up d-block"> </i> 
-        </a>
-        <!-- Back to top -->
-
-        <!-- Style switcher -->
-        <div id="style-switcher" class="bg-light border p-3 pt-2 pb-2" onclick="toggleSwitcher()">
-            <div>
-                <h6 class="title text-center">Select Your Color</h6>
-                <ul class="pattern">
-                    <li class="list-inline-item">
-                        <a class="color1" href="javascript: void(0);" onclick="setColor('default')"></a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a class="color2" href="javascript: void(0);" onclick="setColor('blue')"></a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a class="color3" href="javascript: void(0);" onclick="setColor('light-green')"></a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a class="color4" href="javascript: void(0);" onclick="setColor('yellow')"></a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a class="color5" href="javascript: void(0);" onclick="setColor('light-yellow')"></a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a class="color6" href="javascript: void(0);" onclick="setColor('purple')"></a>
-                    </li>
-                </ul>
-
-                <h6 class="title text-center pt-3 mb-0 border-top">Theme Option</h6>
-                <ul class="text-center list-unstyled mb-0">
-                    <li class="d-grid"><a href="javascript:void(0)" class="btn btn-sm btn-block btn-primary rtl-version t-rtl-light mt-2" onclick="setTheme('style-rtl')">RTL</a></li>
-                    <li class="d-grid"><a href="javascript:void(0)" class="btn btn-sm btn-block btn-primary ltr-version t-ltr-light mt-2" onclick="setTheme('style')">LTR</a></li>
-                    <li class="d-grid"><a href="javascript:void(0)" class="btn btn-sm btn-block btn-primary dark-rtl-version t-rtl-dark mt-2" onclick="setTheme('style-dark-rtl')">RTL</a></li>
-                    <li class="d-grid"><a href="javascript:void(0)" class="btn btn-sm btn-block btn-primary dark-ltr-version t-ltr-dark mt-2" onclick="setTheme('style-dark')">LTR</a></li>
-                    <li class="d-grid"><a href="javascript:void(0)" class="btn btn-sm btn-block btn-dark dark-version t-dark mt-2" onclick="setTheme('style-dark')">Dark</a></li>
-                    <li class="d-grid"><a href="javascript:void(0)" class="btn btn-sm btn-block btn-dark light-version t-light mt-2" onclick="setTheme('style')">Light</a></li>
-                </ul>
-
-                <h6 class="title text-center pt-3 mb-0 border-top">Download</h6>
-                <ul class="text-center list-unstyled mb-0">
-                    <li><a href="https://1.envato.market/cristino" target="_blank" class="btn btn-sm btn-block btn-warning mt-2 w-100">Download</a></li>
-                </ul>
-            </div>
-            <div class="bottom p-0">
-                <a href="javascript: void(0);" class="settings bg-white shadow d-block"><i class="mdi mdi-cog ms-1 mdi-24px position-absolute mdi-spin text-primary"></i></a>
-            </div>
-        </div>
-        <!-- end Style switcher -->
-
-        <!-- javascript -->
-        <script src="js/bootstrap.bundle.min.js"></script>
-        <script src="js/gumshoe.js"></script>
-        <script src="js/parallax.js"></script>
-        <!-- SLIDER -->
-        <script src="js/tiny-slider.js "></script>
-        <!-- Lightbox -->
-        <script src="js/tobii.min.js"></script>
-        <script src="js/shuffle.min.js"></script>
-        <!-- Feather icon -->
-        <script src="js/feather.min.js"></script>
-        <script src="js/typed.js"></script>
-        <!-- Main Js -->
-        <script src="js/plugins.init.js"></script>
-        <script src="js/app.js"></script>
-    </body>
-</html>
+        <?php
+ require('footer.php');
+?>  
