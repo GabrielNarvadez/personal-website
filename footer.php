@@ -6,12 +6,9 @@
                         <a href="#"><img src="images/logo-light.png" alt=""></a>
                         <p class="para-desc mx-auto mt-5">Obviously I'm a Web Designer. Experienced with all stages of the development cycle for dynamic web projects.</p>
                         <ul class="list-unstyled mb-0 mt-4 social-icon">
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-twitter"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-instagram"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-vimeo"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-google-plus"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-linkedin"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=100084649749387"target="_blank"><i class="mdi mdi-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.instagram.com/itsmeeugene_gab/"target="_blank"><i class="mdi mdi-instagram"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.linkedin.com/in/gabnarvadez/"target="_blank"><i class="mdi mdi-linkedin"></i></a></li>
                         </ul>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -30,7 +27,7 @@
         </a>
         <!-- Back to top -->
 
-        <!-- Style switcher -->
+<!-- Style switcher -->
         <div id="style-switcher" class="bg-light border p-3 pt-2 pb-2" onclick="toggleSwitcher()">
             <div>
                 <h6 class="title text-center">Select Your Color</h6>
