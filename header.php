@@ -53,10 +53,10 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul id="navbar-navlist" class="navbar-nav navbar-nav-link mx-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="#news">Blog</a>
+                            <a class="nav-link" href="www.gabnarvadez.com/blogs">Blog</a>
                         </li><!--end nav item-->
                         <li class="nav-item">
-                            <a class="nav-link" href="#news">Portfolio</a>
+                            <a class="nav-link" href="#projects">Portfolio</a>
                         </li><!--end nav item-->
                         <li class="nav-item">
                             <a class="nav-link" href="#contact">Contact</a>
@@ -64,9 +64,9 @@
                     </ul>
 
                     <ul class="list-unstyled mb-0 mt-2 mt-sm-0 social-icon">
-                        <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-facebook"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-twitter"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><i class="mdi mdi-instagram"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=100084649749387"><i class="mdi mdi-facebook"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/gabnarvadez/"><i class="mdi mdi-linkedin"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.instagram.com/itsmeeugene_gab/"><i class="mdi mdi-instagram"></i></a></li>
                     </ul>
                 </div> 
             </div><!--end container-->
@@ -96,7 +96,7 @@
                                             <p class="para-desc para mb-0">Are you ready for a brand transformation? Let's explore endless possibilities to create a engaging presence that sets you apart from the competition. </p>
                                         
                                             <div class="mt-4">
-                                                <a href="#project" class="btn btn-primary">Hire me</a>
+                                                <a href="#contact" class="btn btn-primary">Hire me</a>
                                             </div>
                                         </div>
                                     </div><!--end col-->
