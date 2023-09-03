@@ -53,7 +53,7 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul id="navbar-navlist" class="navbar-nav navbar-nav-link mx-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="www.gabnarvadez.com/blogs">Blog</a>
+                            <a class="nav-link" href="http://www.gabnarvadez.com/blogs">Blog</a>
                         </li><!--end nav item-->
                         <li class="nav-item">
                             <a class="nav-link" href="#projects">Portfolio</a>

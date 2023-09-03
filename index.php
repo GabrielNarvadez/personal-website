@@ -545,7 +545,7 @@
                                 <h4 class="text-light title-dark">I Am Available For Freelancer Projects.</h4>
                                 <p class="text-white-50 mx-auto mt-4 para-desc">Obviously I'm a Web Designer. Experienced with all stages of the development cycle for dynamic web projects.</p>
                                 <div class="mt-4">
-                                    <a href="#contact" class="btn btn-primary mouse-down">Hire me <i data-feather="chevron-down" class="fea icon-sm"></i></a>
+                                    <a href="#contact" class="btn btn-primary mouse-down">Hire me</a>
                                 </div>
                             </div><!--end col-->
                         </div><!--end row-->
