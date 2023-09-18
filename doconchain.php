@@ -1,5 +1,5 @@
 <?php
-require('../header.php');
+require('header.php');
 ?>
 
 <!-- Work Start -->
@@ -68,5 +68,5 @@ require('../header.php');
 </section><!--end section-->
 <!-- Contact End -->
 <?php
-require('../footer.php');
+require('footer.php');
 ?>

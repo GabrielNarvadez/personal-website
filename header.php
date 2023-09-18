@@ -43,8 +43,8 @@
         <nav id="navbar" class="navbar navbar-expand-lg fixed-top navbar-custom navbar-light sticky">
     		<div class="container">
                 <a class="navbar-brand" href="">
-                    <img src="images/logo.png" class="logo-light-mode" alt="">
-                    <img src="images/logo-light.png" class="logo-dark-mode" alt="">
+                    <img src="images/logo.png" height="60" class="logo-light-mode" alt="">
+                    <img src="images/logo-light.png" height="60" class="logo-dark-mode" alt="">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span data-feather="menu" class="fea icon-md"></span>
@@ -73,40 +73,4 @@
 		</nav><!--end navbar-->
         <!-- Navbar End -->
 
-        <!-- Start Hero -->
-        <section class="full-home personal-hero d-flex align-items-center background-effect overflow-hidden" id="home">
-            <div class="container-fluid">
-                <div class="bg-overlay bg-overlay-primary jarallax" data-jarallax data-speed="0.5" style="background: url('images/home/hero-gab.png') top;"></div>
-
-                <div class="container position-relative" style="z-index: 1;">
-                    <div class="row mt-5">
-                        <div class="col">
-                            <div class="title-heading">
-                                <div class="row">
-                                    <div class="col-lg-4 col-md-6">
-                                        <h4 class="display-3 title fw-bold mb-0">Gabriel <br> <span class="typewrite" data-period="2000" data-type='[ "Narvadez"]'></span> </h4>                            
-                                        
-                                    </div><!--end col-->
-            
-                                    <div class="col-lg-5 offset-lg-3 col-md-6 mt-4 mt-sm-0">
-                                    
-                                        <div class="rounded personal-hero-para">
-                                            <h5 class="mb-3 sub-title">Designing Brilliance, Marketing Excellence</h5>
-                                
-                                            <p class="para-desc para mb-0">Are you ready for a brand transformation? Let's explore endless possibilities to create a engaging presence that sets you apart from the competition. </p>
-                                        
-                                            <div class="mt-4">
-                                                <a href="#contact" class="btn btn-primary">Hire me</a>
-                                            </div>
-                                        </div>
-                                    </div><!--end col-->
-                                </div><!--end row-->
-                            </div>
-                        </div><!--end col-->
-                    </div><!--end row-->
-                </div><!--end container-->
-            </div><!--end container fluid-->
-            <div class="personal-overlay bg-overlay bg-primary-gradient-overlay"></div>
-        </section><!--end section-->
-        <!-- End Hero -->
         

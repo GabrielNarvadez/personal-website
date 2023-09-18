@@ -1,7 +1,44 @@
 <?php
  require('header.php');
 ?>
-        <!-- About Start -->
+               <!-- Start Hero -->
+               <section class="full-home personal-hero d-flex align-items-center background-effect overflow-hidden" id="home">
+            <div class="container-fluid">
+                <div class="bg-overlay bg-overlay-primary jarallax" data-jarallax data-speed="0.5" style="background: url('images/home/hero-gab.png') top;"></div>
+
+                <div class="container position-relative" style="z-index: 1;">
+                    <div class="row mt-5">
+                        <div class="col">
+                            <div class="title-heading">
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6">
+                                        <h4 class="display-3 title fw-bold mb-0">Gabriel <br> <span class="typewrite" data-period="2000" data-type='[ "Narvadez"]'></span> </h4>                            
+                                        
+                                    </div><!--end col-->
+            
+                                    <div class="col-lg-5 offset-lg-3 col-md-6 mt-4 mt-sm-0">
+                                    
+                                        <div class="rounded personal-hero-para">
+                                            <h5 class="mb-3 sub-title">Designing Brilliance, Marketing Excellence</h5>
+                                
+                                            <p class="para-desc para mb-0">Are you ready for a brand transformation? Let's explore endless possibilities to create a engaging presence that sets you apart from the competition. </p>
+                                        
+                                            <div class="mt-4">
+                                                <a href="#contact" class="btn btn-primary">Hire me</a>
+                                            </div>
+                                        </div>
+                                    </div><!--end col-->
+                                </div><!--end row-->
+                            </div>
+                        </div><!--end col-->
+                    </div><!--end row-->
+                </div><!--end container-->
+            </div><!--end container fluid-->
+            <div class="personal-overlay bg-overlay bg-primary-gradient-overlay"></div>
+        </section><!--end section-->
+        <!-- End Hero -->
+
+       <!-- About Start -->
         <section class="section pb-3" id="about">
             <div class="container">
                 <div class="row align-items-center">
@@ -18,7 +55,7 @@
                             <p class="text-muted">Hello! I am dedicated with a relentless drive for design and technology. As a certified web and graphics designer, I specialize in crafting engaging designs that leave a lasting impact on audiences. With five years of experience in the creatives industry, I have collaborated with both local and international brands, delivering innovative solutions that inspire and resonate.
                             </p>
                             <p class="text-muted">In addition to my design skills, I hold expertise as a certified HubSpot specialist. Over three years, I've honed my abilities in CRM platforms and B2B marketing strategies, making me an invaluable asset for businesses seeking to maximize their CRM capabilities. From optimizing lead generation to enhancing customer relationship management, I help streamline marketing efforts for sustainable growth.</p>
-                            <img src="images/sign.png" height="22" alt="">
+                            <img src="images/sign.png" height="80" alt="">
                             <div class="mt-4">
                                 <a href="#projects" class="btn btn-primary mouse-down">View Portfolio</a>
                             </div>
@@ -436,7 +473,7 @@
                                 </div>
                             </div>
                             <div class="gallary-title py-4 text-center">
-                                <h5><a href="page-portfolio-detail.html" class="title text-dark">Flyhub Digital</a></h5>
+                                <h5><a href="flyhubdigital.php" class="title text-dark">Flyhub Digital</a></h5>
                                 <span>Branding</span>
                             </div>
                         </div>
@@ -453,7 +490,7 @@
                                 </div>
                             </div>
                             <div class="gallary-title py-4 text-center">
-                                <h5><a href="page-portfolio-detail.html" class="title text-dark">Nuview Treatment Center</a></h5>
+                                <h5><a href="nuviewtreatmentcenter.php" class="title text-dark">Nuview Treatment Center</a></h5>
                                 <span>Development</span>
                             </div>
                         </div>
@@ -555,66 +592,7 @@
         </section><!--end section-->
         <!-- Blog Start -->
 
-        <!-- Contact Start -->
-        <section class="section pb-0" id="contact">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-12 text-center">
-                        <div class="section-title">
-                            <div class="position-relative">
-                                <h4 class="title text-uppercase mb-4">Contact Me</h4>
-                                <div>
-                                    <div class="title-box"></div>
-                                    <div class="title-line"></div>
-                                </div>
-                            </div>
-                            <p class="text-muted mx-auto para-desc mt-5 mb-0">Let's connect and discuss how I can help bring your vision to life.</p>
-                        </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-
-                <div class="row">
-                    <div class="col-md-4 mt-4 pt-2">
-                        <div class="contact-detail text-center">
-                            <div class="icon">
-                                <i data-feather="phone" class="fea icon-md"></i>
-                            </div>
-                            <div class="content mt-4">
-                                <h5 class="title text-uppercase">Phone</h5>
-                                <p class="text-muted">Promising development turmoil inclusive education transformative community</p>
-                                <a href="tel:+152534-468-854" class="text-primary">+63956-743-3547</a>
-                            </div>  
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-md-4 mt-4 pt-2">
-                        <div class="contact-detail text-center">
-                            <div class="icon">
-                                <i data-feather="mail" class="fea icon-md"></i>
-                            </div>
-                            <div class="content mt-4">
-                                <h5 class="title text-uppercase">Email</h5>
-                                <p class="text-muted">Promising development turmoil inclusive education transformative community</p>
-                                <a href="mailto:contact@example.com" class="text-primary">gab.narvadez@gmail.com</a>
-                            </div>  
-                        </div>
-                    </div><!--end col-->
-                    
-                    <div class="col-md-4 mt-4 pt-2">
-                        <div class="contact-detail text-center">
-                            <div class="icon">
-                                <i data-feather="map-pin" class="fea icon-md"></i>
-                            </div>
-                            <div class="content mt-4">
-                                <h5 class="title text-uppercase">Location</h5>
-                                <p class="text-muted">Santo Tomas City<br>Batangas, Philippines 4234</p>
-                                <a href="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d6030.418742494061!2d-111.34563870463673!3d26.01036670629853!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1471908546569" class="video-play-icon text-primary">View on Google map</a>
-                            </div>  
-                        </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
-        </section><!--end section-->
+       
 
         <section class="section pt-5 mt-3">
             <div class="container">

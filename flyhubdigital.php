@@ -10,7 +10,7 @@
                         <div class="row me-lg-4">
                             <div class="col-lg-12">
                                 <div class="work-details">
-                                    <h4 class="title mb-3 border-bottom pb-3">Project Name :</h4>
+                                    <h4 class="title mb-3 border-bottom pb-3">Project Name : Flyhub Digital</h4>
                                     <p class="text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit totam atque dignissimos porro, exercitationem, neque alias ea aliquid quibusdam voluptates impedit maxime aut asperiores consequatur iste. Corporis fuga ducimus dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci non dolorem consequatur vitae hic.</p>
                                     <p class="text-muted mb-0">Suscipit totam atque dignissimos porro, exercitationem, neque alias ea aliquid quibusdam voluptates impedit maxime aut asperiores consequatur iste. Corporis fuga ducimus dignissimos.</p>
                                 </div>

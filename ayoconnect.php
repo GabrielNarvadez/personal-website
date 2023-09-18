@@ -161,7 +161,7 @@ require('header.php');
                             <div class="content mt-4">
                                 <h5 class="title text-uppercase">Phone</h5>
                                 <p class="text-muted">Promising development turmoil inclusive education transformative community</p>
-                                <a href="tel:+152534-468-854" class="text-primary">+152 534-468-854</a>
+                                <a href="tel:+63956-743-3547" class="text-primary">+63956-743-3547</a>
                             </div>  
                         </div>
                     </div><!--end col-->
@@ -174,7 +174,7 @@ require('header.php');
                             <div class="content mt-4">
                                 <h5 class="title text-uppercase">Email</h5>
                                 <p class="text-muted">Promising development turmoil inclusive education transformative community</p>
-                                <a href="mailto:contact@example.com" class="text-primary">contact@example.com</a>
+                                <a href="mailto:gab.narvadez@gmail.com" class="text-primary">gab.narvadez@gmail.com</a>
                             </div>  
                         </div>
                     </div><!--end col-->
@@ -186,7 +186,7 @@ require('header.php');
                             </div>
                             <div class="content mt-4">
                                 <h5 class="title text-uppercase">Location</h5>
-                                <p class="text-muted">C/54 Northwest Freeway, Suite 558, <br>Houston, USA 485</p>
+                                <p class="text-muted">Santo Tomas City<br>Batangas, Philippines 4234</p>
                                 <a href="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d6030.418742494061!2d-111.34563870463673!3d26.01036670629853!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1471908546569" class="video-play-icon text-primary">View on Google map</a>
                             </div>  
                         </div>
