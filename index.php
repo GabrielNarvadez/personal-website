@@ -451,10 +451,10 @@
                         <div class="filters-group">
                             <ul class="portfolioFilter list-inline mb-0 filter-options text-center">
                                 <li class="list-inline-item categories-name border text-dark px-3 rounded active" data-group="all">All</li>
-                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="branding">Branding</li>
-                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="designing">UI/UX Design</li>
-                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="photography">Software Solution</li>
-                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="development">Content Creation</li>
+                                
+                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="Automation">Automation</li>
+                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="Hubspot Solutions">Hubspot Solutions</li>
+                                <li class="list-inline-item categories-name border text-dark px-3 rounded" data-group="UI/UX Design">UI/UX Design</li>
                             </ul>
                         </div>
                     </div><!--end col-->
@@ -462,107 +462,108 @@
                 <!-- Gallary -->
                 <!-- Gallary -->
                 <div id="grid" class="row">
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2 picture-item" data-groups='["branding", "designing"]'>
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2 picture-item" data-groups='["Creative & Technical", "Hubspot Solutions", "UI/UX Design", "Automation"]'>
                         <div class="item-box portfolio-box rounded shadow bg-white overflow-hidden">
                             <div class="portfolio-box-img position-relative overflow-hidden">
-                                <img class="item-container img-fluid mx-auto" src="images/portfolio/1.jpg" alt="1">
+                                <img class="item-container img-fluid mx-auto" src="images/portfolio/flyhub-digital.png" alt="1">
                                 <div class="overlay-work">
                                     <div class="work-content text-center">
-                                        <a href="images/portfolio/1.jpg" class="lightbox text-light work-icon bg-dark d-inline-block rounded-pill "><i data-feather="camera" class="fea icon-sm image-icon"></i></a>
+                                        <a href="images/portfolio/flyhub-digital.png" class="lightbox text-light work-icon bg-dark"><i data-feather="Creative & Technical" class="fea icon-sm image-icon"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="gallary-title py-4 text-center">
-                                <h5><a href="flyhubdigital.php" class="title text-dark">Flyhub Digital</a></h5>
-                                <span>Branding</span>
+                                <h5><a href="https://flyhubdigital.com" class="title text-dark">Flyhub Digital</a></h5>
+                                
                             </div>
                         </div>
                     </div>
                     
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2 picture-item" data-groups='["branding", "development"]'>
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2 picture-item" data-groups='["Automation", "development"]'>
                         <div class="item-box portfolio-box rounded shadow bg-white overflow-hidden">
                             <div class="portfolio-box-img position-relative overflow-hidden">
-                                <img class="item-container img-fluid mx-auto" src="images/portfolio/2.jpg" alt="1">
+                                <img class="item-container img-fluid mx-auto" src="images/portfolio/nuview.png" alt="1">
                                 <div class="overlay-work">
                                     <div class="work-content text-center">
-                                        <a href="images/portfolio/2.jpg" class="lightbox text-light work-icon bg-dark d-inline-block rounded-pill "><i data-feather="camera" class="fea icon-sm image-icon"></i></a>
+                                        <a href="images/portfolio/nuview.png" class="lightbox text-light work-icon bg-dark"><i data-feather="Automation" class="fea icon-sm image-icon"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="gallary-title py-4 text-center">
-                                <h5><a href="nuviewtreatmentcenter.php" class="title text-dark">Nuview Treatment Center</a></h5>
-                                <span>Development</span>
+                                <h5><a href="https://nuviewtreatment.com/" class="title text-dark">Nuview Treatment Center</a></h5>
+                                
                             </div>
                         </div>
                     </div>
                     
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2 picture-item" data-groups='["designing", "development"]'>
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2 picture-item" data-groups='["Hubspot Solutions", "UI/UX Design"]'>
                         <div class="item-box portfolio-box rounded shadow bg-white overflow-hidden">
                             <div class="portfolio-box-img position-relative overflow-hidden">
-                                <img class="item-container img-fluid mx-auto" src="images/portfolio/3.jpg" alt="1">
+                                <img class="item-container img-fluid mx-auto" src="images/portfolio/doconchain.png" alt="1">
                                 <div class="overlay-work">
                                     <div class="work-content text-center">
-                                        <a href="images/portfolio/3.jpg" class="lightbox text-light work-icon bg-dark d-inline-block rounded-pill "><i data-feather="camera" class="fea icon-sm image-icon"></i></a>
+                                        <a href="images/portfolio/doconchain.png" class="lightbox text-light work-icon bg-dark"><i data-feather="camera" class="fea icon-sm image-icon"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="gallary-title py-4 text-center">
-                                <h5><a href="page-portfolio-detail.html" class="title text-dark">The Coffee Cup</a></h5>
-                                <span>Designing</span>
+                                <h5><a href="https://doconchain.com" class="title text-dark">Doconchain</a></h5>
+                                
                             </div>
                         </div>
                     </div>
                     
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2 picture-item" data-groups='["photography"]'>
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2 picture-item" data-groups='["Hubspot Solutions"]'>
                         <div class="item-box portfolio-box rounded shadow bg-white overflow-hidden">
                             <div class="portfolio-box-img position-relative overflow-hidden">
-                                <img class="item-container img-fluid mx-auto" src="images/portfolio/4.jpg" alt="1">
+                                <img class="item-container img-fluid mx-auto" src="images/portfolio/tiikr.png" alt="1">
                                 <div class="overlay-work">
                                     <div class="work-content text-center">
-                                        <a href="images/portfolio/4.jpg" class="lightbox text-light work-icon bg-dark d-inline-block rounded-pill "><i data-feather="camera" class="fea icon-sm image-icon"></i></a>
+                                        <a href="images/portfolio/tiikr.png" class="lightbox text-light work-icon bg-dark"><i data-feather="Hubspot Solutions" class="fea icon-sm image-icon"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="gallary-title py-4 text-center">
-                                <h5><a href="page-portfolio-detail.html" class="title text-dark">The Wooden Desk</a></h5>
-                                <span>Photography</span>
+                                <h5><a href="https://tiikr.com" class="title text-dark">Tiikr</a></h5>
+                                
                             </div>
                         </div>
                     </div>
                     
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2 picture-item" data-groups='["photography"]'>
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2 picture-item" data-groups='["UI/UX Design"]'>
                         <div class="item-box portfolio-box rounded shadow bg-white overflow-hidden">
                             <div class="portfolio-box-img position-relative overflow-hidden">
-                                <img class="item-container img-fluid mx-auto" src="images/portfolio/5.jpg" alt="1">
+                                <img class="item-container img-fluid mx-auto" src="images/portfolio/ayoconnect.png" alt="1">
                                 <div class="overlay-work">
                                     <div class="work-content text-center">
-                                        <a href="images/portfolio/5.jpg" class="lightbox text-light work-icon bg-dark d-inline-block rounded-pill "><i data-feather="camera" class="fea icon-sm image-icon"></i></a>
+                                        <a href="images/portfolio/ayoconnect.png" class="lightbox text-light work-icon bg-dark"><i data-feather="camera" class="fea icon-sm image-icon"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="gallary-title py-4 text-center">
-                                <h5><a href="page-portfolio-detail.html" class="title text-dark">Camera</a></h5>
-                                <span>Illustrations</span>
+                                <h5><a href="https://ayoconnect.com" class="title text-dark">Ayoconnect</a></h5>
+                                
                             </div>
                         </div>
                     </div>
-                    
-                    <div class="col-lg-4 col-md-6 mt-4 pt-2 picture-item" data-groups='["photography"]'>
+                   
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2 picture-item" data-groups='["Hubspot Solutions", "UI/UX Design"]'>
                         <div class="item-box portfolio-box rounded shadow bg-white overflow-hidden">
                             <div class="portfolio-box-img position-relative overflow-hidden">
-                                <img class="item-container img-fluid mx-auto" src="images/portfolio/6.jpg" alt="1">
+                                <img class="item-container img-fluid mx-auto" src="images/portfolio/hamma.png" alt="1">
                                 <div class="overlay-work">
                                     <div class="work-content text-center">
-                                        <a href="images/portfolio/6.jpg" class="lightbox text-light work-icon bg-dark d-inline-block rounded-pill "><i data-feather="camera" class="fea icon-sm image-icon"></i></a>
+                                        <a href="images/portfolio/hamma.png" class="lightbox text-light work-icon bg-dark"></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="gallary-title py-4 text-center">
-                                <h5><a href="page-portfolio-detail.html" class="title text-dark">Branded Laptop</a></h5>
-                                <span>Photoshop</span>
+                                <h5><a href="https://hamma.digital" class="title text-dark">Hamma Digital</a></h5>
+                                
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div><!--end container-->
         </section><!--end section-->
@@ -592,54 +593,6 @@
         </section><!--end section-->
         <!-- Blog Start -->
 
-       
-
-        <section class="section pt-5 mt-3">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-12">
-                        <div class="custom-form mb-sm-30">
-                            <form method="post" name="myForm" onsubmit="return validateForm()">
-                                <p id="error-msg"></p>
-                                <div id="simple-msg"></div>
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="row">
-                                            <div class="col-lg-12 col-md-6">
-                                                <div class="form-group">
-                                                    <input name="name" id="name" type="text" class="form-control border rounded" placeholder="First Name :">
-                                                </div>
-                                            </div><!--end col-->
-                                            <div class="col-lg-12 col-md-6">
-                                                <div class="form-group">
-                                                    <input name="email" id="email" type="email" class="form-control border rounded" placeholder="Your email :">
-                                                </div> 
-                                            </div><!--end col-->
-                                            <div class="col-lg-12">
-                                                <div class="form-group">
-                                                    <input name="subject" id="subject" class="form-control border rounded" placeholder="Your subject :">
-                                                </div>                                                                               
-                                            </div><!--end col-->
-                                        </div><!--end row-->
-                                    </div><!--end col-->
-
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <textarea name="comments" id="comments" rows="4" class="form-control border rounded" placeholder="Your Message :"></textarea>
-                                        </div>
-                                    </div><!--end col-->
-
-                                    <div class="col-sm-12 text-end">
-                                        <button type="submit" id="submit" name="send" class="btn btn-primary">Send Message</button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div><!--end custom-form-->
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
-        </section><!--end section-->
-        <!-- Contact End -->
 
         <?php
  require('footer.php');

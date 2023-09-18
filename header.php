@@ -9,7 +9,7 @@
         <meta name="keywords" content="Bootstrap 5, premium, marketing, multipurpose">
         <meta content="Shreethemes" name="author">
         <!-- favicon -->
-        <link rel="shortcut icon" href="images/favicon.ico">
+        <link rel="shortcut icon" href="images/gfav.png">
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
         <!-- Lightbox -->
@@ -42,7 +42,7 @@
         <!-- Navbar Start -->
         <nav id="navbar" class="navbar navbar-expand-lg fixed-top navbar-custom navbar-light sticky">
     		<div class="container">
-                <a class="navbar-brand" href="">
+                <a class="navbar-brand" href="http://www.gabnarvadez.com">
                     <img src="images/logo.png" height="60" class="logo-light-mode" alt="">
                     <img src="images/logo-light.png" height="60" class="logo-dark-mode" alt="">
                 </a>

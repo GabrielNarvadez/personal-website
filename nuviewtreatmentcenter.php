@@ -11,8 +11,8 @@
                             <div class="col-lg-12">
                                 <div class="work-details">
                                     <h4 class="title mb-3 border-bottom pb-3">Project Name :</h4>
-                                    <p class="text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit totam atque dignissimos porro, exercitationem, neque alias ea aliquid quibusdam voluptates impedit maxime aut asperiores consequatur iste. Corporis fuga ducimus dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci non dolorem consequatur vitae hic.</p>
-                                    <p class="text-muted mb-0">Suscipit totam atque dignissimos porro, exercitationem, neque alias ea aliquid quibusdam voluptates impedit maxime aut asperiores consequatur iste. Corporis fuga ducimus dignissimos.</p>
+                                    <p class="text-muted">Our team provided comprehensive digital marketing services, focusing on leveraging technology to drive impactful results with the help of Wordpress and Hubspot. With my expertise in technical marketing automation, integration, and chatbot development, we optimized marketing processes, achieved higher conversions, and enhanced customer engagement. Through intelligent chatbot systems, we delivered personalized interactions, immediate assistance, and improved user experiences, elevating our clients' digital marketing efforts to new heights.</p>
+
                                 </div>
                             </div><!--end col-->
                             

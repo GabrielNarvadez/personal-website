@@ -15,7 +15,14 @@
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
-
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "na1",
+    portalId: "21495779",
+    formId: "b335744e-a516-47ad-b999-a7345220604e"
+  });
+</script>
                 <div class="row">
                     <div class="col-md-4 mt-4 pt-2">
                         <div class="contact-detail text-center">
@@ -24,7 +31,7 @@
                             </div>
                             <div class="content mt-4">
                                 <h5 class="title text-uppercase">Phone</h5>
-                                <p class="text-muted">Promising development turmoil inclusive education transformative community</p>
+                                <p class="text-muted">Feel free to reach out to me anytime through the phone for quick and convenient communication.</p>
                                 <a href="tel:+63956-743-3547" class="text-primary">+63956-743-3547</a>
                             </div>  
                         </div>
@@ -37,7 +44,7 @@
                             </div>
                             <div class="content mt-4">
                                 <h5 class="title text-uppercase">Email</h5>
-                                <p class="text-muted">Promising development turmoil inclusive education transformative community</p>
+                                <p class="text-muted">Don't hesitate to shoot me an email with any inquiries</p>
                                 <a href="mailto:gab@flyhubdigital.com" class="text-primary">gab@flyhubdigital.com</a>
                             </div>  
                         </div>
@@ -66,7 +73,7 @@
                 <div class="row justify-content-center">
                     <div class="col-12 text-center">
                         <a href="#"><img src="images/logo-light.png" height="60" alt=""></a>
-                        <p class="para-desc mx-auto mt-5">Obviously I'm a Web Designer. Experienced with all stages of the development cycle for dynamic web projects.</p>
+                        <p class="para-desc mx-auto mt-5">Designing Brilliance, Marketing Excellence. Experienced with all stages of the development cycle for dynamic web projects.</p>
                         <ul class="list-unstyled mb-0 mt-4 social-icon">
                             <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=100084649749387"target="_blank"><i class="mdi mdi-facebook"></i></a></li>
                             <li class="list-inline-item"><a href="https://www.instagram.com/itsmeeugene_gab/"target="_blank"><i class="mdi mdi-instagram"></i></a></li>
